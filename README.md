@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seunghyeon Ban</h1>
 <h3 align="center">A passionate frontend developer and full-stack developer from S.korea</h3>
+<img align="right" alt="coidng guy" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-developer&psig=AOvVaw1whUbrLWStCUIrPbryGKNx&ust=1715101861272000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiFtL3C-YUDFQAAAAAdAAAAABAS">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghyeonb&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyeonb" /> </p>
 
