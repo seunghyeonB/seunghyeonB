@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seunghyeon Ban</h1>
 <h3 align="center">A passionate frontend developer and full-stack developer from S.korea</h3>
-<img align="right" alt="coidng guy" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=1800&t=st=1715020787~exp=1715021387~hmac=9ed85432d66609f7ddc0f05c7dc2db1746daee4c309e3f7dbd4d675010c5fd65">
+<img align="right" alt="coidng guy" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F40153937-asian-man-software-developer-line-2d-character-animation-programmer-working-on-laptop-flat-color-cartoon-4k-video-alpha-channel-computing-engineer-animated-person-on-white-background&psig=AOvVaw3Oqpk5Ud8pdYT7AbRwMFV7&ust=1715107419481000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCQh5fX-YUDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghyeonb&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyeonb" /> </p>
 
