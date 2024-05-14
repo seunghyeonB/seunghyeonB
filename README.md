@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on MERN stack hospital system **MediHub**
 
-- 🌱 I’m currently learning **micro frontend**
+- 🌱 I’m currently learning **Data analytics**
 
 - 📫 How to reach me **kban0980@gmail.com**
 
