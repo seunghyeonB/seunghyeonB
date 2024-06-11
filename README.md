@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seunghyeon Ban</h1>
-<h3 align="center">A passionate frontend and full-stack developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coidng guy" width="400" src="https://st4.depositphotos.com/3319473/28919/v/600/depositphotos_289190838-stock-illustration-busy-computer-programmer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghyeonb&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyeonb" /> </p>
